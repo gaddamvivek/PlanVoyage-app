@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "name": "New York City",
+      "image": "/images/cardContent.png",
+      "price": "$200/night"
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "image": "/images/homeBg.png",
+      "price": "$250/night"
+    },
+    {
+        "id": 3,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 4,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 5,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 6,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 7,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 8,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 9,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 10,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 11,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 12,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 13,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 14,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 15,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 16,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 17,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 18,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 19,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 20,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 21,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 22,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      },
+      {
+        "id": 23,
+        "name": "Miami Beach",
+        "image": "/images/homeBg.png",
+        "price": "$200/night"
+      },
+      {
+        "id": 24,
+        "name": "Paris",
+        "image": "/images/homeBg.png",
+        "price": "$250/night"
+      }
+  ]

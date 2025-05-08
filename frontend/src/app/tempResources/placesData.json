@@ -1,0 +1,978 @@
+[
+    {
+        "id": 9862,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9862.jpg",
+        "Loc_name": "Times Square",
+        "Description": "Bright lights, big screens, and non-stop energy in the heart of NYC.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Shopping",
+            "Dining",
+            "Sightseeing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "New York",
+        "Address": "Manhattan, New York, NY 10036",
+        "Min_Price": 0,
+        "Max_Price": 100,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+        ]
+    },
+    {
+        "id": 9863,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9863.jpg",
+        "Loc_name": "Las Vegas Strip",
+        "Description": "World-famous for its vibrant nightlife, casinos, and entertainment.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Shopping",
+            "Shows",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Nevada",
+        "Address": "Las Vegas Blvd S, Las Vegas, NV 89109",
+        "Min_Price": 50,
+        "Max_Price": 300,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Fall",
+            "Winter",
+            "Spring"
+        ]
+    },
+    {
+        "id": 9864,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9864.jpg",
+        "Loc_name": "Chicago Riverwalk",
+        "Description": "A lively urban waterfront with city lights reflecting on the river.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Sightseeing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching",
+            "Cafe Hopping"
+        ],
+        "State": "Illinois",
+        "Address": "Chicago Riverwalk, Chicago, IL 60601",
+        "Min_Price": 20,
+        "Max_Price": 80,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9865,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9865.jpg",
+        "Loc_name": "San Francisco at Night",
+        "Description": "Golden Gate Bridge and the skyline illuminated at night.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Sightseeing",
+            "Photography",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching",
+            "Cafe Hopping"
+        ],
+        "State": "California",
+        "Address": "Golden Gate Bridge, San Francisco, CA 94129",
+        "Min_Price": 0,
+        "Max_Price": 50,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9866,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9865.jpg",
+        "Loc_name": "Seattle Skyline",
+        "Description": "Space Needle lights up the misty night skies of the Pacific Northwest.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Observation Deck",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching",
+            "Cafe Hopping"
+        ],
+        "State": "Washington",
+        "Address": "400 Broad St, Seattle, WA 98109",
+        "Min_Price": 35,
+        "Max_Price": 75,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Solo"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9867,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9867.jpg",
+        "Loc_name": "Downtown Atlanta",
+        "Description": "Bustling nightlife and glowing skyline views in the South.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Sightseeing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching",
+            "Cafe Hopping"
+        ],
+        "State": "Georgia",
+        "Address": "Downtown, Atlanta, GA 30303",
+        "Min_Price": 20,
+        "Max_Price": 100,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9868,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9868.jpg",
+        "Loc_name": "Miami Nightlife",
+        "Description": "Electric nights with vibrant colors and lively beach vibes.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Nightclubs",
+            "Dining",
+            "Live Music",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Florida",
+        "Address": "South Beach, Miami Beach, FL 33139",
+        "Min_Price": 30,
+        "Max_Price": 200,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Friends",
+            "Couple"
+        ],
+        "Seasons": [
+            "Winter",
+            "Spring"
+        ]
+    },
+    {
+        "id": 9869,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9869.jpg",
+        "Loc_name": "Downtown Dallas",
+        "Description": "Skyscrapers lit with neon creating a lively urban night scene.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Bars",
+            "Museums",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Texas",
+        "Address": "Downtown, Dallas, TX 75201",
+        "Min_Price": 15,
+        "Max_Price": 90,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Friends"
+        ],
+        "Seasons": [
+            "Fall",
+            "Spring"
+        ]
+    },
+    {
+        "id": 9870,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9870.jpg",
+        "Loc_name": "Los Angeles Night Lights",
+        "Description": "City of stars, glowing with energy and nightlife.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Clubs",
+            "Scenic Views",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "California",
+        "Address": "Hollywood Blvd, Los Angeles, CA 90028",
+        "Min_Price": 30,
+        "Max_Price": 150,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+        ]
+    },
+    {
+        "id": 9871,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9871.jpg",
+        "Loc_name": "Broadway, Nashville",
+        "Description": "Bright neon lights and live country music on every corner.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Live Music",
+            "Bars",
+            "Shopping",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Tennessee",
+        "Address": "Broadway, Nashville, TN 37203",
+        "Min_Price": 20,
+        "Max_Price": 120,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Friends",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9872,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9872.jpg",
+        "Loc_name": "French Quarter, New Orleans",
+        "Description": "A blend of music, lights, and culture that lights up every night.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Live Music",
+            "Dining",
+            "Nightlife",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Louisiana",
+        "Address": "French Quarter, New Orleans, LA 70116",
+        "Min_Price": 25,
+        "Max_Price": 150,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Friends",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9873,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9873.jpg",
+        "Loc_name": "Downtown Minneapolis",
+        "Description": "Glowing lights and a vibrant arts scene under the city skyline.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Bars",
+            "Theatre",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Minnesota",
+        "Address": "Downtown, Minneapolis, MN 55401",
+        "Min_Price": 20,
+        "Max_Price": 90,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Friends"
+        ],
+        "Seasons": [
+            "Winter",
+            "Spring"
+        ]
+    },
+    {
+        "id": 9874,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9874.jpg",
+        "Loc_name": "Downtown Boston",
+        "Description": "Historic charm meets modern nightlife in this illuminated hub.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Museums",
+            "Night Walks",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Massachusetts",
+        "Address": "Downtown, Boston, MA 02108",
+        "Min_Price": 25,
+        "Max_Price": 100,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Solo"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9875,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9875.jpg",
+        "Loc_name": "Center City, Philadelphia",
+        "Description": "A mix of historical monuments and a glowing skyline.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Sightseeing",
+            "Museums",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Pennsylvania",
+        "Address": "Center City, Philadelphia, PA 19102",
+        "Min_Price": 20,
+        "Max_Price": 80,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9876,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Cities%26Lights/9876.jpg",
+        "Loc_name": "Downtown Denver",
+        "Description": "Lights shimmer against a mountain backdrop in the Mile High City.",
+        "Category": [
+            "Cities & Lights"
+        ],
+        "Activities": [
+            "Dining",
+            "Bars",
+            "Concerts",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Colorado",
+        "Address": "Downtown, Denver, CO 80202",
+        "Min_Price": 25,
+        "Max_Price": 110,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Friends",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9877,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9877.jpg",
+        "Loc_name": "Grand Canyon National Park",
+        "Description": "A majestic natural wonder carved by the Colorado River over millions of years.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Sightseeing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Arizona",
+        "Address": "Grand Canyon National Park, Arizona 86023",
+        "Min_Price": 35,
+        "Max_Price": 80,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9878,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9878.jpg",
+        "Loc_name": "Yosemite National Park",
+        "Description": "Famous for waterfalls, giant sequoias, and awe-inspiring granite cliffs.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Rock Climbing",
+            "Camping",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "California",
+        "Address": "9035 Village Dr, Yosemite Valley, CA 95389",
+        "Min_Price": 20,
+        "Max_Price": 60,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Family"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9879,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9879.jpg",
+        "Loc_name": "Glacier National Park",
+        "Description": "Mountain ranges, pristine lakes, and over 700 miles of hiking trails.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Wildlife Viewing",
+            "Photography",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Montana",
+        "Address": "64 Grinnell Dr, West Glacier, MT 59936",
+        "Min_Price": 30,
+        "Max_Price": 70,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Solo",
+            "Friends"
+        ],
+        "Seasons": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9880,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9880.jpg",
+        "Loc_name": "Blue Ridge Parkway",
+        "Description": "Scenic drive through the Appalachian Highlands with stunning overlooks.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Driving",
+            "Hiking",
+            "Photography",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "North Carolina & Virginia",
+        "Address": "Blue Ridge Pkwy, Asheville, NC 28803",
+        "Min_Price": 0,
+        "Max_Price": 40,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Family",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9881,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9881.jpg",
+        "Loc_name": "Niagara Falls",
+        "Description": "Iconic waterfalls straddling the U.S.-Canada border with powerful beauty.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Boat Tour",
+            "Sightseeing",
+            "Photography",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "New York",
+        "Address": "Niagara Falls State Park, Niagara Falls, NY 14303",
+        "Min_Price": 20,
+        "Max_Price": 70,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9882,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9882.jpg",
+        "Loc_name": "Antelope Canyon",
+        "Description": "A slot canyon known for its wave-like structure and surreal light beams.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Photography",
+            "Guided Tour",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching",
+            "Cafe Hopping"
+        ],
+        "State": "Arizona",
+        "Address": "Navajo Tribal Park, Page, AZ 86040",
+        "Min_Price": 50,
+        "Max_Price": 120,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Couple"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9883,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9883.jpg",
+        "Loc_name": "Arches National Park",
+        "Description": "Over 2,000 natural stone arches in a desert setting of red rock.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Camping",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Utah",
+        "Address": "Arches Entrance Rd, Moab, UT 84532",
+        "Min_Price": 30,
+        "Max_Price": 70,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9884,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9884.jpg",
+        "Loc_name": "Kalalau Valley Lookout",
+        "Description": "A breathtaking view of a lush valley on Kauai\u2019s N\u0101 Pali Coast.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Sightseeing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Hawaii",
+        "Address": "Koke'e Rd, Waimea, HI 96796",
+        "Min_Price": 10,
+        "Max_Price": 60,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Solo"
+        ],
+        "Seasons": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9885,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9885.jpg",
+        "Loc_name": "Denali National Park",
+        "Description": "Home to North America\u2019s tallest peak and vast wilderness.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Wildlife Viewing",
+            "Hiking",
+            "Camping",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Alaska",
+        "Address": "Parks Hwy, Denali National Park and Preserve, AK 99755",
+        "Min_Price": 15,
+        "Max_Price": 75,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Summer"
+        ]
+    },
+    {
+        "id": 9886,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9886.jpg",
+        "Loc_name": "Lake Tahoe",
+        "Description": "A crystal-clear lake surrounded by the Sierra Nevada mountains.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Boating",
+            "Hiking",
+            "Skiing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "California & Nevada",
+        "Address": "Lake Tahoe Blvd, South Lake Tahoe, CA 96150",
+        "Min_Price": 25,
+        "Max_Price": 100,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Winter",
+            "Summer"
+        ]
+    },
+    {
+        "id": 9887,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9887.jpg",
+        "Loc_name": "Zion National Park",
+        "Description": "Towering sandstone cliffs and narrow slot canyons offering dramatic desert scenery.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Camping",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Utah",
+        "Address": "1 Zion Park Blvd, Springdale, UT 84767",
+        "Min_Price": 30,
+        "Max_Price": 70,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Solo",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9888,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9888.jpg",
+        "Loc_name": "Mount Rainier National Park",
+        "Description": "Snow-capped peaks and wildflower-filled meadows surrounding an iconic volcano.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Wildlife Viewing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Washington",
+        "Address": "39000 State Route 706 E, Ashford, WA 98304",
+        "Min_Price": 15,
+        "Max_Price": 60,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Family",
+            "Couple"
+        ],
+        "Seasons": [
+            "Summer",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9889,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9889.jpg",
+        "Loc_name": "Acadia National Park",
+        "Description": "A rugged coastal landscape featuring cliffs, forests, and scenic drives.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Hiking",
+            "Photography",
+            "Driving",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Maine",
+        "Address": "25 Visitor Center Rd, Bar Harbor, ME 04609",
+        "Min_Price": 20,
+        "Max_Price": 60,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Family",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Fall"
+        ]
+    },
+    {
+        "id": 9890,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9890.jpg",
+        "Loc_name": "Great Sand Dunes National Park",
+        "Description": "The tallest sand dunes in North America, backed by alpine peaks.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Sandboarding",
+            "Hiking",
+            "Stargazing",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Colorado",
+        "Address": "11999 CO-150, Mosca, CO 81146",
+        "Min_Price": 25,
+        "Max_Price": 50,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Solo",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer"
+        ]
+    },
+    {
+        "id": 9891,
+        "Image": "https://planvoyage-destinations.s3.us-east-2.amazonaws.com/Scenic/9891.jpg",
+        "Loc_name": "Road to Hana",
+        "Description": "A scenic Hawaiian drive through rainforests, waterfalls, and coastal cliffs.",
+        "Category": [
+            "Scenic"
+        ],
+        "Activities": [
+            "Driving",
+            "Sightseeing",
+            "Photography",
+            "Picnicking",
+            "Local Tours",
+            "Nature Walks",
+            "Art Exhibits",
+            "Sunset Watching"
+        ],
+        "State": "Hawaii",
+        "Address": "Hana Hwy, Maui, HI 96708",
+        "Min_Price": 0,
+        "Max_Price": 80,
+        "Currency": "Dollar",
+        "Travel_Partner": [
+            "Couple",
+            "Friends"
+        ],
+        "Seasons": [
+            "Spring",
+            "Summer"
+        ]
+    }
+]
