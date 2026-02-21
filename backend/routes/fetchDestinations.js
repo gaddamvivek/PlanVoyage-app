@@ -19,7 +19,8 @@ router.get("/destinations", async (req, res) => {
       const preferences = await preferencesModel.findOne({ email });
       console.log(preferences);
       if (!preferences) {
-        return res.status(404).json({ message: "No preferences found for this email" });
+        const destinations = await destinationModel.find();
+        return res.status(200).json(destinations);
       }
 
       const {
